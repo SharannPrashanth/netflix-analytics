@@ -45,7 +45,8 @@ It combines backend analysis using **Pandas** and front-end visualization with *
 
 ## 🌐 Connect with Me
 
-🔗 [LinkedIn – Sharan Prashanth](www.linkedin.com/in/sharan-prashanth-4252b12a5)
+🔗 [LinkedIn – Sharan Prashanth]
+(www.linkedin.com/in/sharan-prashanth-4252b12a5)
 
 ---
 
